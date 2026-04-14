@@ -44,6 +44,10 @@ Python | FastAPI | LangChain | LangGraph | Docker | AWS | SQL | PyTorch | R
 
 ---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kollipara-Hema&show_icons=true)
+
+---
+
 ## 🌐 Links
 - Portfolio: https://probably-true.vercel.app/
 - GitHub: https://github.com/Kollipara-Hema
