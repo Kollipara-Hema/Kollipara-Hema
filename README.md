@@ -46,20 +46,12 @@
 
 ## 🧠 About Me
 
-```python
-hema = {
-    "role"        : "AI Engineer & ML Consultant @ DataraUs",
-    "education"   : "PhD Statistics — Michigan State University (2025)",
-    "experience"  : "9+ years (ML, Statistics, AI Engineering)",
-    "research"    : ["Bayesian Variable Selection", "NB-NMF for scRNA-seq",
-                     "Sparse High-Dimensional Inference"],
-    "building"    : ["Production RAG systems", "Agentic LLM workflows",
-                     "MLOps pipelines", "LLM evaluation frameworks"],
-    "teaching"    : "1,500+ students · William L. Harkness Teaching Award 2022-23",
-    "published_in": ["Statistics in Medicine", "Physica A", "Springer"],
-    "looking_for" : "AI/ML roles in tech consultancy & pharma (Novartis)"
-}
-```
+- 🎓 **PhD in Statistics** — Michigan State University (2025)
+- 💼 **AI Engineer & ML Consultant** @ DataraUs — building production RAG & agentic AI systems
+- 🔬 **Research** — Bayesian variable selection, sparse genomic inference, scRNA-seq (published in *Statistics in Medicine*)
+- 🏆 **William L. Harkness Teaching Award** 2022-23 · 1,500+ students taught
+- 📍 East Lansing, MI · Open to AI/ML roles in tech & pharma
+- 🌱 Currently building toward a blog on RAG systems & Bayesian ML
 
 ---
 
