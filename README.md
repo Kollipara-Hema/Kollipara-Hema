@@ -30,15 +30,15 @@
 <!-- Stats + Languages side by side -->
 <div align="center">
 
-[![Hema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kollipara-Hema&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7F77DD&icon_color=7F77DD)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kollipara-Hema&layout=compact&theme=tokyonight&hide_border=true&title_color=7F77DD&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Kollipara-Hema&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7F77DD&icon_color=7F77DD" alt="Hema's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kollipara-Hema&layout=compact&theme=tokyonight&hide_border=true&title_color=7F77DD&langs_count=6" alt="Top Languages" />
 
 </div>
 
 <!-- Activity graph — full width -->
 <div align="center">
 
-[![Hema's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kollipara-Hema&theme=tokyo-night&hide_border=true&color=7F77DD&line=7F77DD&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kollipara-Hema&theme=tokyo-night&hide_border=true&color=7F77DD&line=7F77DD&point=FF6B6B" alt="Hema's Activity Graph" />
 
 </div>
 
@@ -57,15 +57,23 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Kollipara-Hema/ragcore">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kollipara-Hema&repo=ragcore&theme=tokyonight&hide_border=true&title_color=7F77DD" alt="ragcore" />
+  </a>
+  <a href="https://github.com/Kollipara-Hema/BayesianVarSelGenomics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kollipara-Hema&repo=BayesianVarSelGenomics&theme=tokyonight&hide_border=true&title_color=7F77DD" alt="BayesianVarSelGenomics" />
+  </a>
+</p>
 
-[![ragcore](https://github-readme-stats.vercel.app/api/pin/?username=Kollipara-Hema&repo=ragcore&theme=tokyonight&hide_border=true&title_color=7F77DD)](https://github.com/Kollipara-Hema/ragcore)
-[![BayesianVarSelGenomics](https://github-readme-stats.vercel.app/api/pin/?username=Kollipara-Hema&repo=BayesianVarSelGenomics&theme=tokyonight&hide_border=true&title_color=7F77DD)](https://github.com/Kollipara-Hema/BayesianVarSelGenomics)
-
-[![rag-document-assistant](https://github-readme-stats.vercel.app/api/pin/?username=Kollipara-Hema&repo=rag-document-assistant&theme=tokyonight&hide_border=true&title_color=7F77DD)](https://github.com/Kollipara-Hema/rag-document-assistant)
-[![probably-true](https://github-readme-stats.vercel.app/api/pin/?username=Kollipara-Hema&repo=probably-true&theme=tokyonight&hide_border=true&title_color=7F77DD)](https://github.com/Kollipara-Hema/probably-true)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Kollipara-Hema/rag-document-assistant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kollipara-Hema&repo=rag-document-assistant&theme=tokyonight&hide_border=true&title_color=7F77DD" alt="rag-document-assistant" />
+  </a>
+  <a href="https://github.com/Kollipara-Hema/probably-true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kollipara-Hema&repo=probably-true&theme=tokyonight&hide_border=true&title_color=7F77DD" alt="probably-true" />
+  </a>
+</p>
 
 ---
 
