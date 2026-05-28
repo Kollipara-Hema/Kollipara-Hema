@@ -31,8 +31,8 @@
 <div align="center">
 
 
-![Hema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kollipara-Hema&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7F77DD&icon_color=7F77DD)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kollipara-Hema&layout=compact&theme=tokyonight&hide_border=true&title_color=7F77DD&langs_count=6)
+![Hema's GitHub Stats](https://github-readme-stats-ebon-nu-24.vercel.app/api?username=Kollipara-Hema&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7F77DD&icon_color=7F77DD)
+![Top Languages](https://github-readme-stats-ebon-nu-24.vercel.app/api/top-langs/?username=Kollipara-Hema&layout=compact&theme=tokyonight&hide_border=true&title_color=7F77DD&langs_count=6)
 
 </div>
 
@@ -62,11 +62,11 @@
 
 <p align="center">
 
-[![ragcore](https://github-readme-stats.vercel.app/api/pin/?username=Kollipara-Hema&repo=ragcore&theme=tokyonight&hide_border=true&title_color=7F77DD)](https://github.com/Kollipara-Hema/ragcore)
-[![BayesianVarSelGenomics](https://github-readme-stats.vercel.app/api/pin/?username=Kollipara-Hema&repo=BayesianVarSelGenomics&theme=tokyonight&hide_border=true&title_color=7F77DD)](https://github.com/Kollipara-Hema/BayesianVarSelGenomics)
+[![ragcore](https://github-readme-stats-ebon-nu-24.vercel.app/api/pin/?username=Kollipara-Hema&repo=ragcore&theme=tokyonight&hide_border=true&title_color=7F77DD)](https://github.com/Kollipara-Hema/ragcore)
+[![BayesianVarSelGenomics](https://github-readme-stats-ebon-nu-24.vercel.app/api/pin/?username=Kollipara-Hema&repo=BayesianVarSelGenomics&theme=tokyonight&hide_border=true&title_color=7F77DD)](https://github.com/Kollipara-Hema/BayesianVarSelGenomics)
 
-[![rag-document-assistant](https://github-readme-stats.vercel.app/api/pin/?username=Kollipara-Hema&repo=rag-document-assistant&theme=tokyonight&hide_border=true&title_color=7F77DD)](https://github.com/Kollipara-Hema/rag-document-assistant)
-[![probably-true](https://github-readme-stats.vercel.app/api/pin/?username=Kollipara-Hema&repo=probably-true&theme=tokyonight&hide_border=true&title_color=7F77DD)](https://github.com/Kollipara-Hema/probably-true)
+[![rag-document-assistant](https://github-readme-stats-ebon-nu-24.vercel.app/api/pin/?username=Kollipara-Hema&repo=rag-document-assistant&theme=tokyonight&hide_border=true&title_color=7F77DD)](https://github.com/Kollipara-Hema/rag-document-assistant)
+[![probably-true](https://github-readme-stats-ebon-nu-24.vercel.app/api/pin/?username=Kollipara-Hema&repo=probably-true&theme=tokyonight&hide_border=true&title_color=7F77DD)](https://github.com/Kollipara-Hema/probably-true)
 
 </p>
 
