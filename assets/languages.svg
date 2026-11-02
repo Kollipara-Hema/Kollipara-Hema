@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="158" viewBox="0 0 350 158">
+<style>
+.t{font:600 17px 'Segoe UI',Ubuntu,sans-serif;fill:#7F77DD}
+.l{font:400 13px 'Segoe UI',Ubuntu,sans-serif;fill:#c0caf5}
+.v{font:700 13px 'Segoe UI',Ubuntu,sans-serif;fill:#c0caf5}
+.m{font:400 11px 'Segoe UI',Ubuntu,sans-serif;fill:#787c99}
+</style>
+<rect width="350" height="158" rx="8" fill="#1a1b27"/>
+<text x="24" y="34" class="t">Top Languages</text>
+<clipPath id="r"><rect x="24" y="52" width="302" height="8" rx="4"/></clipPath><g clip-path="url(#r)"><rect x="24.0" y="52" width="273.4" height="8" fill="#7F77DD"/><rect x="297.4" y="52" width="20.1" height="8" fill="#38bdae"/><rect x="317.5" y="52" width="6.9" height="8" fill="#FF6B6B"/><rect x="324.4" y="52" width="1.4" height="8" fill="#e0af68"/><rect x="325.8" y="52" width="0.2" height="8" fill="#7aa2f7"/></g><circle cx="30" cy="80" r="5" fill="#7F77DD"/><text x="42" y="84" class="l">Python <tspan class="m">90.5%</tspan></text><circle cx="190" cy="80" r="5" fill="#38bdae"/><text x="202" y="84" class="l">R <tspan class="m">6.7%</tspan></text><circle cx="30" cy="102" r="5" fill="#FF6B6B"/><text x="42" y="106" class="l">JavaScript <tspan class="m">2.3%</tspan></text><circle cx="190" cy="102" r="5" fill="#e0af68"/><text x="202" y="106" class="l">Dockerfile <tspan class="m">0.5%</tspan></text><circle cx="30" cy="124" r="5" fill="#7aa2f7"/><text x="42" y="128" class="l">Rich Text Format <tspan class="m">0.1%</tspan></text>
+</svg>

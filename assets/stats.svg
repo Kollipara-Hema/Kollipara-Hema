@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="200" viewBox="0 0 350 200">
+<style>
+.t{font:600 17px 'Segoe UI',Ubuntu,sans-serif;fill:#7F77DD}
+.l{font:400 13px 'Segoe UI',Ubuntu,sans-serif;fill:#c0caf5}
+.v{font:700 13px 'Segoe UI',Ubuntu,sans-serif;fill:#c0caf5}
+.m{font:400 11px 'Segoe UI',Ubuntu,sans-serif;fill:#787c99}
+</style>
+<rect width="350" height="200" rx="8" fill="#1a1b27"/>
+<text x="24" y="34" class="t">GitHub Stats</text>
+<circle cx="30" cy="66" r="4" fill="#7F77DD"/><text x="44" y="70" class="l">Contributions (last year)</text><text x="326" y="70" class="v" text-anchor="end">35</text><circle cx="30" cy="92" r="4" fill="#7F77DD"/><text x="44" y="96" class="l">Commits</text><text x="326" y="96" class="v" text-anchor="end">28</text><circle cx="30" cy="118" r="4" fill="#7F77DD"/><text x="44" y="122" class="l">Pull requests</text><text x="326" y="122" class="v" text-anchor="end">1</text><circle cx="30" cy="144" r="4" fill="#7F77DD"/><text x="44" y="148" class="l">Public repositories</text><text x="326" y="148" class="v" text-anchor="end">6</text><circle cx="30" cy="170" r="4" fill="#7F77DD"/><text x="44" y="174" class="l">Stars earned</text><text x="326" y="174" class="v" text-anchor="end">1</text>
+</svg>
