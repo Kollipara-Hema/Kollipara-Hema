@@ -18,61 +18,39 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<!-- Streak stats — centrepiece -->
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kollipara-Hema&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7F77DD&fire=FF6B6B&currStreakLabel=7F77DD)](https://git.io/streak-stats)
-
-</div>
-
-<!-- Stats + Languages side by side -->
-<div align="center">
-
-
-![Hema's GitHub Stats](https://github-readme-stats-ebon-nu-24.vercel.app/api?username=Kollipara-Hema&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7F77DD&icon_color=7F77DD)
-![Top Languages](https://github-readme-stats-ebon-nu-24.vercel.app/api/top-langs/?username=Kollipara-Hema&layout=compact&theme=tokyonight&hide_border=true&title_color=7F77DD&langs_count=6)
-
-</div>
-
-<!-- Activity graph — full width -->
-<div align="center">
-
-
-![Hema's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kollipara-Hema&theme=tokyo-night&hide_border=true&color=7F77DD&line=7F77DD&point=FF6B6B)
-
-</div>
-
----
-
-## 🧠 About Me
-
-- 🎓 **PhD in Statistics** — Michigan State University (2025)
-- 💼 **AI Engineer & ML Consultant** @ DataraUs — building production RAG & agentic AI systems
-- 🔬 **Research** — Bayesian variable selection, sparse genomic inference, scRNA-seq (published in *Statistics in Medicine*)
-- 🏆 **William L. Harkness Teaching Award** 2022-23 · 1,500+ students taught
-- 📍 East Lansing, MI · Open to AI/ML roles in tech & pharma
-- 🌱 Currently building toward a blog on RAG systems & Bayesian ML
-
----
-
-## 🚀 Featured Projects
-
+## GitHub Activity
 
 <p align="center">
-
-[![ragcore](https://github-readme-stats-ebon-nu-24.vercel.app/api/pin/?username=Kollipara-Hema&repo=ragcore&theme=tokyonight&hide_border=true&title_color=7F77DD)](https://github.com/Kollipara-Hema/ragcore)
-[![BayesianVarSelGenomics](https://github-readme-stats-ebon-nu-24.vercel.app/api/pin/?username=Kollipara-Hema&repo=BayesianVarSelGenomics&theme=tokyonight&hide_border=true&title_color=7F77DD)](https://github.com/Kollipara-Hema/BayesianVarSelGenomics)
-
-[![rag-document-assistant](https://github-readme-stats-ebon-nu-24.vercel.app/api/pin/?username=Kollipara-Hema&repo=rag-document-assistant&theme=tokyonight&hide_border=true&title_color=7F77DD)](https://github.com/Kollipara-Hema/rag-document-assistant)
-[![probably-true](https://github-readme-stats-ebon-nu-24.vercel.app/api/pin/?username=Kollipara-Hema&repo=probably-true&theme=tokyonight&hide_border=true&title_color=7F77DD)](https://github.com/Kollipara-Hema/probably-true)
-
+  <img src="assets/stats.svg" alt="GitHub stats" height="190" />
+  <img src="assets/languages.svg" alt="Top languages" height="190" />
+</p>
+<p align="center">
+  <img src="assets/activity.svg" alt="Contribution activity, last 60 days" width="100%" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+- 🎓 **PhD in Statistics** — Michigan State University (2025)
+- 💼 **Specialist** - Michigan State University
+- 🔬 **Research** — Bayesian variable selection, sparse genomic inference, scRNA-seq (published in *Statistics in Medicine*)
+- 📍 East Lansing, MI · Open to AI/ML roles in tech & pharma
+
+---
+
+## Featured Projects
+
+| Project | What it is |
+|:--|:--|
+| **[ragcore](https://github.com/Kollipara-Hema/ragcore)** | Hybrid FAISS + BM25 retrieval with Self-RAG, benchmarked on FiQA under a pre-registered plan. Finding: word-overlap and LLM-judged faithfulness disagree, and both deltas are significant. [Live demo](https://ragcore.streamlit.app) |
+| **[BayesianVarSelGenomics](https://github.com/Kollipara-Hema/BayesianVarSelGenomics)** | Code for *Benchmarking Sparse Variable Selection Methods for Genomic Data Analyses* (Statistics in Medicine, 2026) |
+| **[probably-true](https://github.com/Kollipara-Hema/probably-true)** | Interactive visual explanations of statistics. [Site](https://probably-true.vercel.app) |
+| **[rag-document-assistant](https://github.com/Kollipara-Hema/rag-document-assistant)** | Modular RAG lab for comparing chunking, embedding and vector-store choices |
+
+---
+
+##  Tech Stack
 
 ### 🤖 LLM & AI
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
@@ -81,7 +59,6 @@
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![FAISS](https://img.shields.io/badge/FAISS-00A6D6?style=flat-square&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-00B894?style=flat-square&logoColor=white)
 ![RAGAS](https://img.shields.io/badge/RAGAS-1D9E75?style=flat-square&logoColor=white)
 
 ### 📊 ML & Statistics
@@ -107,7 +84,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_ECS_Fargate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
@@ -121,17 +97,17 @@
 
 ---
 
-## 📈 Impact Metrics
+## Impact Metrics
 
 | Metric | Value |
 |:---|:---|
-| 🎯 RAG retrieval accuracy | 71% → **88%** |
-| ⚡ Query latency reduction | **35%** |
-| 🔬 ML accuracy improvement (ISB) | **19%** |
-| 📉 Cross-encoder reranking | 20 → **5 chunks** |
-| 👩‍🎓 Students taught | **1,500+** |
-| 🏢 Executives trained (ISB AMPBA) | **300+** |
-| 📊 Simulation scenarios | **200+** |
+|  RAG retrieval accuracy | 71% → **88%** |
+|  Query latency reduction | **35%** |
+|  ML accuracy improvement (ISB) | **19%** |
+|  Cross-encoder reranking | 20 → **5 chunks** |
+|  Students taught | **1,500+** |
+|  Executives trained (ISB AMPBA) | **300+** |
+|  Simulation scenarios | **200+** |
 
 ---
 
@@ -145,19 +121,12 @@
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 
 ![IBM](https://img.shields.io/badge/IBM_RAG_%26_Agentic_AI_Professional-052FAD?style=flat-square&logo=ibm&logoColor=white)
 ![DeepLearning.AI](https://img.shields.io/badge/AI_Engineer_for_Data_Scientists-FF6F00?style=flat-square&logo=deeplearning.ai&logoColor=white)
 ![Coursera](https://img.shields.io/badge/ML_Specialization-Stanford%2FCoursera-0056D2?style=flat-square&logo=coursera&logoColor=white)
 ![DataCamp](https://img.shields.io/badge/Data_Analyst_Associate-DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black)
-
----
-
-## ✍️ Writing — Coming Soon
-
-> Blog posts and articles on RAG systems, Bayesian ML, and AI engineering coming soon.
-> This section will auto-update via GitHub Actions once live.
 
 ---
 
